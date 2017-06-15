@@ -1,0 +1,34 @@
+Git Session - II 
+ 
+Delete the existing repo everyone has or use it as a reference
+Then create a new folder
+ 
+Create 3 new files a.txt , b.txt , c.txt ( any other extensions) ( Does not matter)
+Add a new file  ---> virus.txt
+Ensure it is ignored and not uploaded
+ 
+Create a new repo
+Push the above the code into the new repo
+ 
+Create a new branch called “tests”
+Push it to the remote
+Make the master a protected branch
+ 
+Ping your github repo url and github handle on slack
+Now add the person next to you , as an collaborator 
+ 
+Create a PR.
+ 
+ Reading material
+ 
+Should you fork or create a branch to the repo
+Git Shortcuts
+https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/02/02/were-discussing-a-common-vc-question-to-fork-or-not-to-fork-a-git-repository/
+https://drive.google.com/open?id=1RXThczz6VdRs7UVh4FANqto38p094IrqYUg3skk-hP8
+ 
+ 
+ 
+Resolving Merge conflicts:
+ 
+Lets create a git merge conflict
+And then lets resolve the merge conflict
